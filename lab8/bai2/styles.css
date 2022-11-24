@@ -1,0 +1,18 @@
+body{
+    background: #2d99ae;
+}
+table{
+    background-color: #f8daa0;
+    margin: 0 auto;
+}
+h1{
+    color: #bcfefe;
+    text-align: center;
+}
+select{
+    color: #0c5776;
+    background-color: #92b9e3;
+}
+th{
+    color: #001c44;
+}
